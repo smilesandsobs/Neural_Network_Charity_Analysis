@@ -16,10 +16,6 @@ To do this we are designing a deep learning neural network which can accurately 
 
 ## Results:
 
-#### Photo Description: 
-![This is an image]()
-
-
 ### Data Preprocessing:
 #### What variable(s) are considered the target(s) for your model? What variable(s) are considered to be the features?
 
